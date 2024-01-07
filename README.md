@@ -1,6 +1,6 @@
 # Simple Blog Vue.js and Tailwind
 
-Site: 
+Site: https://alvarocodes.github.io/blog-vue-tailwind-simple/
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge)
 
